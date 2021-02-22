@@ -1,0 +1,7 @@
+method caps
+no of fields ko digit mai
+api name
+shfting 
+version not needed
+
+build+cit* 20/100
